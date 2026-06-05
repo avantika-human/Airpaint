@@ -19,7 +19,7 @@ Move your index finger up to draw. Put it down to stop. Press ESC to quit.
 ## Run It
 ```bash
 pip install opencv-python mediapipe
-python air_painter.py
+python test22.py
 ```
 
 ## Controls
